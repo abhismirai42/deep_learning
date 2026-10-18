@@ -1,4 +1,4 @@
-# Computer Vision Paper Implementations
+# Deep Learning
 
 This repository contains implementations of various papers in the field of computer vision for practice and learning purposes. The goal is to build and understand different neural network architectures by implementing them on various datasets.
 
@@ -28,19 +28,11 @@ To get started with these implementations, follow the steps below:
 
 2. **Install the required dependencies:**
     ```bash
-    pip install -r requirements.txt
+    uv sync
     ```
 
-3. **Open the notebooks:**
-    You can open the Jupyter notebooks using Jupyter Lab or Jupyter Notebook:
-    ```bash
-    jupyter lab
-    # or
-    jupyter notebook
-    ```
-
-4. **Run the notebooks:**
-    Select and run the cells in each notebook to see the implementations in action.
+3. **Run the notebooks:**
+    Select deep-learning env which is created in this repo by uv and run the cells in each notebook to see the implementations in action.
 
 ## Future Implementations
 
